@@ -1,0 +1,699 @@
+ID	FQ1	FQ2
+SRR5651494	/home/zhangwen/project/2024Insect/RawData/SRR5651494_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR5651494_2.fastq
+SRR26434583	/home/zhangwen/project/2024Insect/RawData/SRR26434583_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26434583_2.fastq
+SRR26434576	/home/zhangwen/project/2024Insect/RawData/SRR26434576_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26434576_2.fastq
+SRR26434607	/home/zhangwen/project/2024Insect/RawData/SRR26434607_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26434607_2.fastq
+SRR26434608	/home/zhangwen/project/2024Insect/RawData/SRR26434608_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26434608_2.fastq
+SRR27252002	/home/zhangwen/project/2024Insect/RawData/SRR27252002_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR27252002_2.fastq
+SRR26434577	/home/zhangwen/project/2024Insect/RawData/SRR26434577_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26434577_2.fastq
+SRR1509788	/home/zhangwen/project/2024Insect/RawData/SRR1509788_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR1509788_2.fastq
+SRR6801038	/home/zhangwen/project/2024Insect/RawData/SRR6801038.fastq	
+SRR21669497	/home/zhangwen/project/2024Insect/RawData/SRR21669497_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR21669497_2.fastq
+SRR8334324	/home/zhangwen/project/2024Insect/RawData/SRR8334324_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR8334324_2.fastq
+SRR21669498	/home/zhangwen/project/2024Insect/RawData/SRR21669498_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR21669498_2.fastq
+SRR3656968	/home/zhangwen/project/2024Insect/RawData/SRR3656968_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR3656968_2.fastq
+SRR925829	/home/zhangwen/project/2024Insect/RawData/SRR925829.fastq	
+SRR8334320	/home/zhangwen/project/2024Insect/RawData/SRR8334320_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR8334320_2.fastq
+DRR127197	/home/zhangwen/project/2024Insect/RawData/DRR127197_1.fastq	/home/zhangwen/project/2024Insect/RawData/DRR127197_2.fastq
+SRR8334332	/home/zhangwen/project/2024Insect/RawData/SRR8334332_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR8334332_2.fastq
+SRR6669806	/home/zhangwen/project/2024Insect/RawData/SRR6669806_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR6669806_2.fastq
+DRR127241	/home/zhangwen/project/2024Insect/RawData/DRR127241_1.fastq	/home/zhangwen/project/2024Insect/RawData/DRR127241_2.fastq
+SRR13837151	/home/zhangwen/project/2024Insect/RawData/SRR13837151_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837151_2.fastq
+SRR8334328	/home/zhangwen/project/2024Insect/RawData/SRR8334328_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR8334328_2.fastq
+SRR8334319	/home/zhangwen/project/2024Insect/RawData/SRR8334319_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR8334319_2.fastq
+SRR8334330	/home/zhangwen/project/2024Insect/RawData/SRR8334330_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR8334330_2.fastq
+SRR8334317	/home/zhangwen/project/2024Insect/RawData/SRR8334317_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR8334317_2.fastq
+SRR8334321	/home/zhangwen/project/2024Insect/RawData/SRR8334321_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR8334321_2.fastq
+SRR8334322	/home/zhangwen/project/2024Insect/RawData/SRR8334322_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR8334322_2.fastq
+SRR8334325	/home/zhangwen/project/2024Insect/RawData/SRR8334325_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR8334325_2.fastq
+SRR3656965	/home/zhangwen/project/2024Insect/RawData/SRR3656965_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR3656965_2.fastq
+SRR13837150	/home/zhangwen/project/2024Insect/RawData/SRR13837150_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837150_2.fastq
+SRR8334329	/home/zhangwen/project/2024Insect/RawData/SRR8334329_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR8334329_2.fastq
+SRR8334318	/home/zhangwen/project/2024Insect/RawData/SRR8334318_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR8334318_2.fastq
+SRR8334323	/home/zhangwen/project/2024Insect/RawData/SRR8334323_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR8334323_2.fastq
+SRR8334331	/home/zhangwen/project/2024Insect/RawData/SRR8334331_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR8334331_2.fastq
+SRR8334327	/home/zhangwen/project/2024Insect/RawData/SRR8334327_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR8334327_2.fastq
+SRR17714430	/home/zhangwen/project/2024Insect/RawData/SRR17714430.fastq	
+SRR7287234	/home/zhangwen/project/2024Insect/RawData/SRR7287234_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287234_2.fastq
+SRR8334326	/home/zhangwen/project/2024Insect/RawData/SRR8334326_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR8334326_2.fastq
+SRR26532402	/home/zhangwen/project/2024Insect/RawData/SRR26532402_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26532402_2.fastq
+SRR17714421	/home/zhangwen/project/2024Insect/RawData/SRR17714421.fastq	
+SRR7287225	/home/zhangwen/project/2024Insect/RawData/SRR7287225_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287225_2.fastq
+SRR7287226	/home/zhangwen/project/2024Insect/RawData/SRR7287226_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287226_2.fastq
+SRR26532401	/home/zhangwen/project/2024Insect/RawData/SRR26532401_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26532401_2.fastq
+SRR7287235	/home/zhangwen/project/2024Insect/RawData/SRR7287235_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287235_2.fastq
+SRR17714365	/home/zhangwen/project/2024Insect/RawData/SRR17714365.fastq	
+SRR7287195	/home/zhangwen/project/2024Insect/RawData/SRR7287195_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287195_2.fastq
+SRR10810034	/home/zhangwen/project/2024Insect/RawData/SRR10810034_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810034_2.fastq
+DRR127242	/home/zhangwen/project/2024Insect/RawData/DRR127242_1.fastq	/home/zhangwen/project/2024Insect/RawData/DRR127242_2.fastq
+SRR17714435	/home/zhangwen/project/2024Insect/RawData/SRR17714435.fastq	
+SRR13837175	/home/zhangwen/project/2024Insect/RawData/SRR13837175_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837175_2.fastq
+SRR7287212	/home/zhangwen/project/2024Insect/RawData/SRR7287212_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287212_2.fastq
+SRR13837135	/home/zhangwen/project/2024Insect/RawData/SRR13837135_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837135_2.fastq
+SRR17714434	/home/zhangwen/project/2024Insect/RawData/SRR17714434.fastq	
+SRR7287224	/home/zhangwen/project/2024Insect/RawData/SRR7287224_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287224_2.fastq
+SRR17714432	/home/zhangwen/project/2024Insect/RawData/SRR17714432.fastq	
+SRR13837143	/home/zhangwen/project/2024Insect/RawData/SRR13837143_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837143_2.fastq
+SRR17714429	/home/zhangwen/project/2024Insect/RawData/SRR17714429.fastq	
+SRR7287213	/home/zhangwen/project/2024Insect/RawData/SRR7287213_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287213_2.fastq
+SRR13837172	/home/zhangwen/project/2024Insect/RawData/SRR13837172_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837172_2.fastq
+SRR17714376	/home/zhangwen/project/2024Insect/RawData/SRR17714376.fastq	
+SRR23478488	/home/zhangwen/project/2024Insect/RawData/SRR23478488_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR23478488_2.fastq
+SRR26629860	/home/zhangwen/project/2024Insect/RawData/SRR26629860_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26629860_2.fastq
+SRR7287194	/home/zhangwen/project/2024Insect/RawData/SRR7287194_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287194_2.fastq
+SRR13837202	/home/zhangwen/project/2024Insect/RawData/SRR13837202_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837202_2.fastq
+SRR26532407	/home/zhangwen/project/2024Insect/RawData/SRR26532407_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26532407_2.fastq
+SRR13837124	/home/zhangwen/project/2024Insect/RawData/SRR13837124_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837124_2.fastq
+SRR17714420	/home/zhangwen/project/2024Insect/RawData/SRR17714420.fastq	
+SRR26629861	/home/zhangwen/project/2024Insect/RawData/SRR26629861_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26629861_2.fastq
+SRR17714398	/home/zhangwen/project/2024Insect/RawData/SRR17714398.fastq	
+SRR18730807	/home/zhangwen/project/2024Insect/RawData/SRR18730807_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR18730807_2.fastq
+SRR13837171	/home/zhangwen/project/2024Insect/RawData/SRR13837171_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837171_2.fastq
+SRR17714419	/home/zhangwen/project/2024Insect/RawData/SRR17714419.fastq	
+SRR17714424	/home/zhangwen/project/2024Insect/RawData/SRR17714424.fastq	
+SRR26532404	/home/zhangwen/project/2024Insect/RawData/SRR26532404_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26532404_2.fastq
+SRR3480635	/home/zhangwen/project/2024Insect/RawData/SRR3480635_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR3480635_2.fastq
+SRR13837148	/home/zhangwen/project/2024Insect/RawData/SRR13837148_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837148_2.fastq
+SRR19756523	/home/zhangwen/project/2024Insect/RawData/SRR19756523_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756523_2.fastq
+SRR23478489	/home/zhangwen/project/2024Insect/RawData/SRR23478489_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR23478489_2.fastq
+SRR23478485	/home/zhangwen/project/2024Insect/RawData/SRR23478485_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR23478485_2.fastq
+SRR19756509	/home/zhangwen/project/2024Insect/RawData/SRR19756509_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756509_2.fastq
+SRR19756524	/home/zhangwen/project/2024Insect/RawData/SRR19756524_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756524_2.fastq
+SRR18730813	/home/zhangwen/project/2024Insect/RawData/SRR18730813_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR18730813_2.fastq
+SRR26532406	/home/zhangwen/project/2024Insect/RawData/SRR26532406_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26532406_2.fastq
+SRR13837147	/home/zhangwen/project/2024Insect/RawData/SRR13837147_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837147_2.fastq
+SRR13837164	/home/zhangwen/project/2024Insect/RawData/SRR13837164_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837164_2.fastq
+SRR26629862	/home/zhangwen/project/2024Insect/RawData/SRR26629862_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26629862_2.fastq
+SRR18730810	/home/zhangwen/project/2024Insect/RawData/SRR18730810_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR18730810_2.fastq
+SRR23478487	/home/zhangwen/project/2024Insect/RawData/SRR23478487_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR23478487_2.fastq
+SRR13837173	/home/zhangwen/project/2024Insect/RawData/SRR13837173_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837173_2.fastq
+SRR13837170	/home/zhangwen/project/2024Insect/RawData/SRR13837170_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837170_2.fastq
+SRR18730806	/home/zhangwen/project/2024Insect/RawData/SRR18730806_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR18730806_2.fastq
+SRR25337250	/home/zhangwen/project/2024Insect/RawData/SRR25337250_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR25337250_2.fastq
+SRR19756525	/home/zhangwen/project/2024Insect/RawData/SRR19756525_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756525_2.fastq
+SRR13627125	/home/zhangwen/project/2024Insect/RawData/SRR13627125_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627125_2.fastq
+SRR23478484	/home/zhangwen/project/2024Insect/RawData/SRR23478484_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR23478484_2.fastq
+SRR26629859	/home/zhangwen/project/2024Insect/RawData/SRR26629859_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26629859_2.fastq
+SRR17125926	/home/zhangwen/project/2024Insect/RawData/SRR17125926_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17125926_2.fastq
+DRR142948	/home/zhangwen/project/2024Insect/RawData/DRR142948_1.fastq	/home/zhangwen/project/2024Insect/RawData/DRR142948_2.fastq
+SRR25337248	/home/zhangwen/project/2024Insect/RawData/SRR25337248_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR25337248_2.fastq
+SRR18730809	/home/zhangwen/project/2024Insect/RawData/SRR18730809_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR18730809_2.fastq
+SRR26629863	/home/zhangwen/project/2024Insect/RawData/SRR26629863_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26629863_2.fastq
+SRR19756538	/home/zhangwen/project/2024Insect/RawData/SRR19756538_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756538_2.fastq
+SRR9716007	/home/zhangwen/project/2024Insect/RawData/SRR9716007_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR9716007_2.fastq
+SRR19756552	/home/zhangwen/project/2024Insect/RawData/SRR19756552_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756552_2.fastq
+SRR9716005	/home/zhangwen/project/2024Insect/RawData/SRR9716005_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR9716005_2.fastq
+SRR9716012	/home/zhangwen/project/2024Insect/RawData/SRR9716012_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR9716012_2.fastq
+SRR19756512	/home/zhangwen/project/2024Insect/RawData/SRR19756512_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756512_2.fastq
+DRR142946	/home/zhangwen/project/2024Insect/RawData/DRR142946_1.fastq	/home/zhangwen/project/2024Insect/RawData/DRR142946_2.fastq
+SRR23613146	/home/zhangwen/project/2024Insect/RawData/SRR23613146_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR23613146_2.fastq
+SRR17111098	/home/zhangwen/project/2024Insect/RawData/SRR17111098_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17111098_2.fastq
+SRR17070283	/home/zhangwen/project/2024Insect/RawData/SRR17070283_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17070283_2.fastq
+SRR9716016	/home/zhangwen/project/2024Insect/RawData/SRR9716016_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR9716016_2.fastq
+SRR18730811	/home/zhangwen/project/2024Insect/RawData/SRR18730811_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR18730811_2.fastq
+SRR23454939	/home/zhangwen/project/2024Insect/RawData/SRR23454939_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR23454939_2.fastq
+SRR13627152	/home/zhangwen/project/2024Insect/RawData/SRR13627152_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627152_2.fastq
+SRR13627126	/home/zhangwen/project/2024Insect/RawData/SRR13627126_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627126_2.fastq
+SRR18730804	/home/zhangwen/project/2024Insect/RawData/SRR18730804_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR18730804_2.fastq
+SRR19756518	/home/zhangwen/project/2024Insect/RawData/SRR19756518_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756518_2.fastq
+SRR19756550	/home/zhangwen/project/2024Insect/RawData/SRR19756550_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756550_2.fastq
+SRR13837153	/home/zhangwen/project/2024Insect/RawData/SRR13837153_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837153_2.fastq
+SRR13627150	/home/zhangwen/project/2024Insect/RawData/SRR13627150_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627150_2.fastq
+SRR13627153	/home/zhangwen/project/2024Insect/RawData/SRR13627153_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627153_2.fastq
+SRR13837196	/home/zhangwen/project/2024Insect/RawData/SRR13837196_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837196_2.fastq
+SRR17125925	/home/zhangwen/project/2024Insect/RawData/SRR17125925_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17125925_2.fastq
+SRR18730805	/home/zhangwen/project/2024Insect/RawData/SRR18730805_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR18730805_2.fastq
+SRR17125927	/home/zhangwen/project/2024Insect/RawData/SRR17125927_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17125927_2.fastq
+SRR9716008	/home/zhangwen/project/2024Insect/RawData/SRR9716008_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR9716008_2.fastq
+SRR19756533	/home/zhangwen/project/2024Insect/RawData/SRR19756533_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756533_2.fastq
+SRR9716009	/home/zhangwen/project/2024Insect/RawData/SRR9716009_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR9716009_2.fastq
+SRR13837152	/home/zhangwen/project/2024Insect/RawData/SRR13837152_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837152_2.fastq
+SRR18730808	/home/zhangwen/project/2024Insect/RawData/SRR18730808_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR18730808_2.fastq
+SRR7287230	/home/zhangwen/project/2024Insect/RawData/SRR7287230_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287230_2.fastq
+SRR19756507	/home/zhangwen/project/2024Insect/RawData/SRR19756507_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756507_2.fastq
+SRR19756546	/home/zhangwen/project/2024Insect/RawData/SRR19756546_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756546_2.fastq
+SRR7287227	/home/zhangwen/project/2024Insect/RawData/SRR7287227_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287227_2.fastq
+SRR13837149	/home/zhangwen/project/2024Insect/RawData/SRR13837149_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837149_2.fastq
+SRR19756521	/home/zhangwen/project/2024Insect/RawData/SRR19756521_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756521_2.fastq
+SRR18730812	/home/zhangwen/project/2024Insect/RawData/SRR18730812_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR18730812_2.fastq
+SRR9716013	/home/zhangwen/project/2024Insect/RawData/SRR9716013_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR9716013_2.fastq
+SRR13837169	/home/zhangwen/project/2024Insect/RawData/SRR13837169_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837169_2.fastq
+SRR19756526	/home/zhangwen/project/2024Insect/RawData/SRR19756526_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756526_2.fastq
+SRR13837174	/home/zhangwen/project/2024Insect/RawData/SRR13837174_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837174_2.fastq
+SRR9716006	/home/zhangwen/project/2024Insect/RawData/SRR9716006_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR9716006_2.fastq
+SRR9716011	/home/zhangwen/project/2024Insect/RawData/SRR9716011_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR9716011_2.fastq
+SRR7287198	/home/zhangwen/project/2024Insect/RawData/SRR7287198_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287198_2.fastq
+SRR17125921	/home/zhangwen/project/2024Insect/RawData/SRR17125921_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17125921_2.fastq
+SRR17125928	/home/zhangwen/project/2024Insect/RawData/SRR17125928_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17125928_2.fastq
+SRR9716015	/home/zhangwen/project/2024Insect/RawData/SRR9716015_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR9716015_2.fastq
+SRR23454940	/home/zhangwen/project/2024Insect/RawData/SRR23454940_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR23454940_2.fastq
+SRR9716014	/home/zhangwen/project/2024Insect/RawData/SRR9716014_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR9716014_2.fastq
+SRR17125929	/home/zhangwen/project/2024Insect/RawData/SRR17125929_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17125929_2.fastq
+SRR17070284	/home/zhangwen/project/2024Insect/RawData/SRR17070284_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17070284_2.fastq
+SRR17070281	/home/zhangwen/project/2024Insect/RawData/SRR17070281_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17070281_2.fastq
+SRR26532408	/home/zhangwen/project/2024Insect/RawData/SRR26532408_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26532408_2.fastq
+SRR23613145	/home/zhangwen/project/2024Insect/RawData/SRR23613145_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR23613145_2.fastq
+SRR13627145	/home/zhangwen/project/2024Insect/RawData/SRR13627145_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627145_2.fastq
+SRR19756532	/home/zhangwen/project/2024Insect/RawData/SRR19756532_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756532_2.fastq
+SRR13627147	/home/zhangwen/project/2024Insect/RawData/SRR13627147_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627147_2.fastq
+SRR19756528	/home/zhangwen/project/2024Insect/RawData/SRR19756528_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756528_2.fastq
+SRR9716010	/home/zhangwen/project/2024Insect/RawData/SRR9716010_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR9716010_2.fastq
+SRR13837195	/home/zhangwen/project/2024Insect/RawData/SRR13837195_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837195_2.fastq
+SRR19756520	/home/zhangwen/project/2024Insect/RawData/SRR19756520_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756520_2.fastq
+SRR19756536	/home/zhangwen/project/2024Insect/RawData/SRR19756536_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756536_2.fastq
+SRR13837193	/home/zhangwen/project/2024Insect/RawData/SRR13837193_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837193_2.fastq
+SRR17070282	/home/zhangwen/project/2024Insect/RawData/SRR17070282_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17070282_2.fastq
+SRR19756548	/home/zhangwen/project/2024Insect/RawData/SRR19756548_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756548_2.fastq
+SRR19756522	/home/zhangwen/project/2024Insect/RawData/SRR19756522_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756522_2.fastq
+SRR13627124	/home/zhangwen/project/2024Insect/RawData/SRR13627124_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627124_2.fastq
+SRR19756531	/home/zhangwen/project/2024Insect/RawData/SRR19756531_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756531_2.fastq
+SRR19756551	/home/zhangwen/project/2024Insect/RawData/SRR19756551_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756551_2.fastq
+SRR23454943	/home/zhangwen/project/2024Insect/RawData/SRR23454943_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR23454943_2.fastq
+SRR19756541	/home/zhangwen/project/2024Insect/RawData/SRR19756541_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756541_2.fastq
+SRR13837206	/home/zhangwen/project/2024Insect/RawData/SRR13837206_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837206_2.fastq
+SRR17714431	/home/zhangwen/project/2024Insect/RawData/SRR17714431.fastq	
+SRR19756519	/home/zhangwen/project/2024Insect/RawData/SRR19756519_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756519_2.fastq
+SRR13627129	/home/zhangwen/project/2024Insect/RawData/SRR13627129_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627129_2.fastq
+SRR19756545	/home/zhangwen/project/2024Insect/RawData/SRR19756545_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756545_2.fastq
+SRR17125923	/home/zhangwen/project/2024Insect/RawData/SRR17125923_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17125923_2.fastq
+SRR23454942	/home/zhangwen/project/2024Insect/RawData/SRR23454942_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR23454942_2.fastq
+SRR19756529	/home/zhangwen/project/2024Insect/RawData/SRR19756529_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756529_2.fastq
+SRR19756534	/home/zhangwen/project/2024Insect/RawData/SRR19756534_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756534_2.fastq
+SRR19756542	/home/zhangwen/project/2024Insect/RawData/SRR19756542_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756542_2.fastq
+SRR18730802	/home/zhangwen/project/2024Insect/RawData/SRR18730802_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR18730802_2.fastq
+SRR7287210	/home/zhangwen/project/2024Insect/RawData/SRR7287210_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287210_2.fastq
+SRR17714422	/home/zhangwen/project/2024Insect/RawData/SRR17714422.fastq	
+SRR19756527	/home/zhangwen/project/2024Insect/RawData/SRR19756527_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756527_2.fastq
+SRR17111099	/home/zhangwen/project/2024Insect/RawData/SRR17111099_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17111099_2.fastq
+SRR13627128	/home/zhangwen/project/2024Insect/RawData/SRR13627128_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627128_2.fastq
+SRR13627151	/home/zhangwen/project/2024Insect/RawData/SRR13627151_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627151_2.fastq
+SRR17070286	/home/zhangwen/project/2024Insect/RawData/SRR17070286_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17070286_2.fastq
+SRR7287242	/home/zhangwen/project/2024Insect/RawData/SRR7287242_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287242_2.fastq
+SRR19756516	/home/zhangwen/project/2024Insect/RawData/SRR19756516_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756516_2.fastq
+SRR13837209	/home/zhangwen/project/2024Insect/RawData/SRR13837209_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837209_2.fastq
+SRR17111097	/home/zhangwen/project/2024Insect/RawData/SRR17111097_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17111097_2.fastq
+SRR17111096	/home/zhangwen/project/2024Insect/RawData/SRR17111096_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17111096_2.fastq
+SRR23613142	/home/zhangwen/project/2024Insect/RawData/SRR23613142_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR23613142_2.fastq
+SRR19756513	/home/zhangwen/project/2024Insect/RawData/SRR19756513_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756513_2.fastq
+SRR23613144	/home/zhangwen/project/2024Insect/RawData/SRR23613144_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR23613144_2.fastq
+SRR13837188	/home/zhangwen/project/2024Insect/RawData/SRR13837188_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837188_2.fastq
+SRR17070280	/home/zhangwen/project/2024Insect/RawData/SRR17070280_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17070280_2.fastq
+SRR17070287	/home/zhangwen/project/2024Insect/RawData/SRR17070287_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17070287_2.fastq
+SRR17111095	/home/zhangwen/project/2024Insect/RawData/SRR17111095_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17111095_2.fastq
+SRR13837144	/home/zhangwen/project/2024Insect/RawData/SRR13837144_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837144_2.fastq
+SRR23613141	/home/zhangwen/project/2024Insect/RawData/SRR23613141_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR23613141_2.fastq
+SRR17981913	/home/zhangwen/project/2024Insect/RawData/SRR17981913_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17981913_2.fastq
+SRR13837199	/home/zhangwen/project/2024Insect/RawData/SRR13837199_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837199_2.fastq
+SRR7287231	/home/zhangwen/project/2024Insect/RawData/SRR7287231_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287231_2.fastq
+SRR24768697	/home/zhangwen/project/2024Insect/RawData/SRR24768697.fastq	
+SRR17111094	/home/zhangwen/project/2024Insect/RawData/SRR17111094_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17111094_2.fastq
+SRR5997683	/home/zhangwen/project/2024Insect/RawData/SRR5997683_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR5997683_2.fastq
+SRR23454944	/home/zhangwen/project/2024Insect/RawData/SRR23454944_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR23454944_2.fastq
+SRR13837211	/home/zhangwen/project/2024Insect/RawData/SRR13837211_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837211_2.fastq
+SRR19756543	/home/zhangwen/project/2024Insect/RawData/SRR19756543_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756543_2.fastq
+SRR17070288	/home/zhangwen/project/2024Insect/RawData/SRR17070288_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17070288_2.fastq
+SRR17125922	/home/zhangwen/project/2024Insect/RawData/SRR17125922_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17125922_2.fastq
+DRR142947	/home/zhangwen/project/2024Insect/RawData/DRR142947_1.fastq	/home/zhangwen/project/2024Insect/RawData/DRR142947_2.fastq
+SRR24768698	/home/zhangwen/project/2024Insect/RawData/SRR24768698.fastq	
+SRR17714392	/home/zhangwen/project/2024Insect/RawData/SRR17714392.fastq	
+SRR13837192	/home/zhangwen/project/2024Insect/RawData/SRR13837192_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837192_2.fastq
+SRR13837165	/home/zhangwen/project/2024Insect/RawData/SRR13837165_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837165_2.fastq
+SRR26532405	/home/zhangwen/project/2024Insect/RawData/SRR26532405_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26532405_2.fastq
+SRR7287206	/home/zhangwen/project/2024Insect/RawData/SRR7287206_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287206_2.fastq
+SRR17111100	/home/zhangwen/project/2024Insect/RawData/SRR17111100_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17111100_2.fastq
+SRR25337249	/home/zhangwen/project/2024Insect/RawData/SRR25337249_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR25337249_2.fastq
+SRR19756510	/home/zhangwen/project/2024Insect/RawData/SRR19756510_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756510_2.fastq
+SRR23613143	/home/zhangwen/project/2024Insect/RawData/SRR23613143_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR23613143_2.fastq
+SRR23478486	/home/zhangwen/project/2024Insect/RawData/SRR23478486_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR23478486_2.fastq
+SRR13627146	/home/zhangwen/project/2024Insect/RawData/SRR13627146_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627146_2.fastq
+SRR13837176	/home/zhangwen/project/2024Insect/RawData/SRR13837176.fastq	
+SRR17981914	/home/zhangwen/project/2024Insect/RawData/SRR17981914_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17981914_2.fastq
+SRR26532403	/home/zhangwen/project/2024Insect/RawData/SRR26532403_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26532403_2.fastq
+SRR13627134	/home/zhangwen/project/2024Insect/RawData/SRR13627134_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627134_2.fastq
+SRR13627127	/home/zhangwen/project/2024Insect/RawData/SRR13627127_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627127_2.fastq
+SRR13627139	/home/zhangwen/project/2024Insect/RawData/SRR13627139_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627139_2.fastq
+SRR19756539	/home/zhangwen/project/2024Insect/RawData/SRR19756539_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756539_2.fastq
+SRR13837218	/home/zhangwen/project/2024Insect/RawData/SRR13837218_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837218_2.fastq
+SRR13627137	/home/zhangwen/project/2024Insect/RawData/SRR13627137_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627137_2.fastq
+SRR19756508	/home/zhangwen/project/2024Insect/RawData/SRR19756508_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756508_2.fastq
+SRR13837198	/home/zhangwen/project/2024Insect/RawData/SRR13837198_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837198_2.fastq
+SRR13627136	/home/zhangwen/project/2024Insect/RawData/SRR13627136_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627136_2.fastq
+SRR13837200	/home/zhangwen/project/2024Insect/RawData/SRR13837200_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837200_2.fastq
+SRR13627138	/home/zhangwen/project/2024Insect/RawData/SRR13627138_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627138_2.fastq
+SRR19756511	/home/zhangwen/project/2024Insect/RawData/SRR19756511_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756511_2.fastq
+SRR17111093	/home/zhangwen/project/2024Insect/RawData/SRR17111093_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17111093_2.fastq
+SRR13837146	/home/zhangwen/project/2024Insect/RawData/SRR13837146.fastq	
+SRR13627140	/home/zhangwen/project/2024Insect/RawData/SRR13627140_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627140_2.fastq
+SRR13837213	/home/zhangwen/project/2024Insect/RawData/SRR13837213_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837213_2.fastq
+SRR17070285	/home/zhangwen/project/2024Insect/RawData/SRR17070285_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17070285_2.fastq
+SRR7287238	/home/zhangwen/project/2024Insect/RawData/SRR7287238_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287238_2.fastq
+SRR17111092	/home/zhangwen/project/2024Insect/RawData/SRR17111092_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17111092_2.fastq
+SRR13837204	/home/zhangwen/project/2024Insect/RawData/SRR13837204_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837204_2.fastq
+SRR17125924	/home/zhangwen/project/2024Insect/RawData/SRR17125924_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17125924_2.fastq
+SRR13837189	/home/zhangwen/project/2024Insect/RawData/SRR13837189_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837189_2.fastq
+SRR7287205	/home/zhangwen/project/2024Insect/RawData/SRR7287205_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287205_2.fastq
+SRR7287200	/home/zhangwen/project/2024Insect/RawData/SRR7287200_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287200_2.fastq
+SRR13627133	/home/zhangwen/project/2024Insect/RawData/SRR13627133_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627133_2.fastq
+SRR5997679	/home/zhangwen/project/2024Insect/RawData/SRR5997679_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR5997679_2.fastq
+SRR5997681	/home/zhangwen/project/2024Insect/RawData/SRR5997681_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR5997681_2.fastq
+SRR13837221	/home/zhangwen/project/2024Insect/RawData/SRR13837221.fastq	
+SRR13627130	/home/zhangwen/project/2024Insect/RawData/SRR13627130_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627130_2.fastq
+SRR25337251	/home/zhangwen/project/2024Insect/RawData/SRR25337251_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR25337251_2.fastq
+SRR7287228	/home/zhangwen/project/2024Insect/RawData/SRR7287228_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287228_2.fastq
+SRR19756535	/home/zhangwen/project/2024Insect/RawData/SRR19756535_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756535_2.fastq
+SRR13837222	/home/zhangwen/project/2024Insect/RawData/SRR13837222.fastq	
+SRR13837190	/home/zhangwen/project/2024Insect/RawData/SRR13837190_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837190_2.fastq
+SRR18730803	/home/zhangwen/project/2024Insect/RawData/SRR18730803_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR18730803_2.fastq
+SRR13627131	/home/zhangwen/project/2024Insect/RawData/SRR13627131_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627131_2.fastq
+SRR13627144	/home/zhangwen/project/2024Insect/RawData/SRR13627144_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627144_2.fastq
+SRR7287218	/home/zhangwen/project/2024Insect/RawData/SRR7287218_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287218_2.fastq
+SRR13627135	/home/zhangwen/project/2024Insect/RawData/SRR13627135_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627135_2.fastq
+SRR13837186	/home/zhangwen/project/2024Insect/RawData/SRR13837186.fastq	
+SRR19756537	/home/zhangwen/project/2024Insect/RawData/SRR19756537_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756537_2.fastq
+SRR23454941	/home/zhangwen/project/2024Insect/RawData/SRR23454941_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR23454941_2.fastq
+SRR7287197	/home/zhangwen/project/2024Insect/RawData/SRR7287197_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287197_2.fastq
+SRR13627132	/home/zhangwen/project/2024Insect/RawData/SRR13627132_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627132_2.fastq
+SRR19756540	/home/zhangwen/project/2024Insect/RawData/SRR19756540_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756540_2.fastq
+SRR13837145	/home/zhangwen/project/2024Insect/RawData/SRR13837145_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837145_2.fastq
+SRR24768699	/home/zhangwen/project/2024Insect/RawData/SRR24768699.fastq	
+SRR7287214	/home/zhangwen/project/2024Insect/RawData/SRR7287214_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287214_2.fastq
+SRR7287237	/home/zhangwen/project/2024Insect/RawData/SRR7287237_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287237_2.fastq
+SRR13837191	/home/zhangwen/project/2024Insect/RawData/SRR13837191_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837191_2.fastq
+SRR13837167	/home/zhangwen/project/2024Insect/RawData/SRR13837167_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837167_2.fastq
+SRR10810016	/home/zhangwen/project/2024Insect/RawData/SRR10810016_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810016_2.fastq
+SRR7287203	/home/zhangwen/project/2024Insect/RawData/SRR7287203_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287203_2.fastq
+SRR13627149	/home/zhangwen/project/2024Insect/RawData/SRR13627149_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627149_2.fastq
+SRR7287239	/home/zhangwen/project/2024Insect/RawData/SRR7287239_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287239_2.fastq
+SRR17714374	/home/zhangwen/project/2024Insect/RawData/SRR17714374_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714374_2.fastq
+SRR19756515	/home/zhangwen/project/2024Insect/RawData/SRR19756515_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756515_2.fastq
+SRR13837212	/home/zhangwen/project/2024Insect/RawData/SRR13837212_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837212_2.fastq
+SRR10810030	/home/zhangwen/project/2024Insect/RawData/SRR10810030_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810030_2.fastq
+SRR24768696	/home/zhangwen/project/2024Insect/RawData/SRR24768696.fastq	
+SRR7287201	/home/zhangwen/project/2024Insect/RawData/SRR7287201_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287201_2.fastq
+SRR7287236	/home/zhangwen/project/2024Insect/RawData/SRR7287236_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287236_2.fastq
+SRR13837134	/home/zhangwen/project/2024Insect/RawData/SRR13837134_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837134_2.fastq
+SRR7287208	/home/zhangwen/project/2024Insect/RawData/SRR7287208_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287208_2.fastq
+SRR27422688	/home/zhangwen/project/2024Insect/RawData/SRR27422688_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR27422688_2.fastq
+SRR12181011	/home/zhangwen/project/2024Insect/RawData/SRR12181011_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181011_2.fastq
+SRR13837203	/home/zhangwen/project/2024Insect/RawData/SRR13837203_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837203_2.fastq
+SRR13837163	/home/zhangwen/project/2024Insect/RawData/SRR13837163.fastq	
+SRR17714393	/home/zhangwen/project/2024Insect/RawData/SRR17714393.fastq	
+SRR7287209	/home/zhangwen/project/2024Insect/RawData/SRR7287209_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287209_2.fastq
+DRR142945	/home/zhangwen/project/2024Insect/RawData/DRR142945_1.fastq	/home/zhangwen/project/2024Insect/RawData/DRR142945_2.fastq
+SRR19756514	/home/zhangwen/project/2024Insect/RawData/SRR19756514_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756514_2.fastq
+SRR7287229	/home/zhangwen/project/2024Insect/RawData/SRR7287229_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287229_2.fastq
+SRR13837141	/home/zhangwen/project/2024Insect/RawData/SRR13837141_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837141_2.fastq
+SRR7287216	/home/zhangwen/project/2024Insect/RawData/SRR7287216_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287216_2.fastq
+SRR7287241	/home/zhangwen/project/2024Insect/RawData/SRR7287241_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287241_2.fastq
+SRR13837201	/home/zhangwen/project/2024Insect/RawData/SRR13837201_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837201_2.fastq
+SRR10810021	/home/zhangwen/project/2024Insect/RawData/SRR10810021_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810021_2.fastq
+SRR13837210	/home/zhangwen/project/2024Insect/RawData/SRR13837210_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837210_2.fastq
+SRR12181044	/home/zhangwen/project/2024Insect/RawData/SRR12181044_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181044_2.fastq
+SRR10810008	/home/zhangwen/project/2024Insect/RawData/SRR10810008_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810008_2.fastq
+SRR19756549	/home/zhangwen/project/2024Insect/RawData/SRR19756549_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756549_2.fastq
+SRR13837179	/home/zhangwen/project/2024Insect/RawData/SRR13837179.fastq	
+SRR10810024	/home/zhangwen/project/2024Insect/RawData/SRR10810024_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810024_2.fastq
+SRR17714400	/home/zhangwen/project/2024Insect/RawData/SRR17714400.fastq	
+SRR7287233	/home/zhangwen/project/2024Insect/RawData/SRR7287233_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287233_2.fastq
+SRR7287232	/home/zhangwen/project/2024Insect/RawData/SRR7287232_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287232_2.fastq
+SRR7287211	/home/zhangwen/project/2024Insect/RawData/SRR7287211_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287211_2.fastq
+SRR10810033	/home/zhangwen/project/2024Insect/RawData/SRR10810033_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810033_2.fastq
+SRR12180969	/home/zhangwen/project/2024Insect/RawData/SRR12180969_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180969_2.fastq
+SRR13837194	/home/zhangwen/project/2024Insect/RawData/SRR13837194_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837194_2.fastq
+SRR19756544	/home/zhangwen/project/2024Insect/RawData/SRR19756544_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756544_2.fastq
+SRR24768704	/home/zhangwen/project/2024Insect/RawData/SRR24768704.fastq	
+SRR27422685	/home/zhangwen/project/2024Insect/RawData/SRR27422685_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR27422685_2.fastq
+SRR7287196	/home/zhangwen/project/2024Insect/RawData/SRR7287196_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287196_2.fastq
+SRR22385969	/home/zhangwen/project/2024Insect/RawData/SRR22385969_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR22385969_2.fastq
+SRR13837216	/home/zhangwen/project/2024Insect/RawData/SRR13837216_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837216_2.fastq
+SRR13837140	/home/zhangwen/project/2024Insect/RawData/SRR13837140_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837140_2.fastq
+SRR17714402	/home/zhangwen/project/2024Insect/RawData/SRR17714402.fastq	
+SRR13837205	/home/zhangwen/project/2024Insect/RawData/SRR13837205_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837205_2.fastq
+SRR10810022	/home/zhangwen/project/2024Insect/RawData/SRR10810022_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810022_2.fastq
+SRR17714405	/home/zhangwen/project/2024Insect/RawData/SRR17714405.fastq	
+SRR7287223	/home/zhangwen/project/2024Insect/RawData/SRR7287223_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287223_2.fastq
+SRR13837217	/home/zhangwen/project/2024Insect/RawData/SRR13837217_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837217_2.fastq
+SRR7287217	/home/zhangwen/project/2024Insect/RawData/SRR7287217_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287217_2.fastq
+SRR17714375	/home/zhangwen/project/2024Insect/RawData/SRR17714375_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714375_2.fastq
+SRR10810019	/home/zhangwen/project/2024Insect/RawData/SRR10810019_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810019_2.fastq
+SRR22385968	/home/zhangwen/project/2024Insect/RawData/SRR22385968_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR22385968_2.fastq
+SRR22385970	/home/zhangwen/project/2024Insect/RawData/SRR22385970_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR22385970_2.fastq
+SRR17714414	/home/zhangwen/project/2024Insect/RawData/SRR17714414.fastq	
+SRR22385973	/home/zhangwen/project/2024Insect/RawData/SRR22385973_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR22385973_2.fastq
+SRR10810027	/home/zhangwen/project/2024Insect/RawData/SRR10810027_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810027_2.fastq
+SRR22385972	/home/zhangwen/project/2024Insect/RawData/SRR22385972_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR22385972_2.fastq
+SRR7287221	/home/zhangwen/project/2024Insect/RawData/SRR7287221_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287221_2.fastq
+SRR10810035	/home/zhangwen/project/2024Insect/RawData/SRR10810035_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810035_2.fastq
+SRR10810012	/home/zhangwen/project/2024Insect/RawData/SRR10810012_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810012_2.fastq
+SRR10810015	/home/zhangwen/project/2024Insect/RawData/SRR10810015_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810015_2.fastq
+SRR17714377	/home/zhangwen/project/2024Insect/RawData/SRR17714377_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714377_2.fastq
+SRR13627142	/home/zhangwen/project/2024Insect/RawData/SRR13627142_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627142_2.fastq
+SRR10810010	/home/zhangwen/project/2024Insect/RawData/SRR10810010_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810010_2.fastq
+SRR7287220	/home/zhangwen/project/2024Insect/RawData/SRR7287220_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287220_2.fastq
+SRR24768700	/home/zhangwen/project/2024Insect/RawData/SRR24768700.fastq	
+SRR13627143	/home/zhangwen/project/2024Insect/RawData/SRR13627143_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627143_2.fastq
+SRR7287215	/home/zhangwen/project/2024Insect/RawData/SRR7287215_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287215_2.fastq
+SRR17714415	/home/zhangwen/project/2024Insect/RawData/SRR17714415.fastq	
+SRR13837139	/home/zhangwen/project/2024Insect/RawData/SRR13837139_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837139_2.fastq
+SRR7287240	/home/zhangwen/project/2024Insect/RawData/SRR7287240_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287240_2.fastq
+SRR19756530	/home/zhangwen/project/2024Insect/RawData/SRR19756530_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756530_2.fastq
+SRR7287247	/home/zhangwen/project/2024Insect/RawData/SRR7287247_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287247_2.fastq
+SRR12180945	/home/zhangwen/project/2024Insect/RawData/SRR12180945_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180945_2.fastq
+SRR12181016	/home/zhangwen/project/2024Insect/RawData/SRR12181016_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181016_2.fastq
+SRR13837166	/home/zhangwen/project/2024Insect/RawData/SRR13837166_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837166_2.fastq
+SRR27422689	/home/zhangwen/project/2024Insect/RawData/SRR27422689_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR27422689_2.fastq
+SRR13837197	/home/zhangwen/project/2024Insect/RawData/SRR13837197.fastq	
+SRR17714388	/home/zhangwen/project/2024Insect/RawData/SRR17714388_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714388_2.fastq
+SRR13837157	/home/zhangwen/project/2024Insect/RawData/SRR13837157.fastq	
+SRR10810031	/home/zhangwen/project/2024Insect/RawData/SRR10810031_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810031_2.fastq
+SRR13837127	/home/zhangwen/project/2024Insect/RawData/SRR13837127_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837127_2.fastq
+SRR17714381	/home/zhangwen/project/2024Insect/RawData/SRR17714381_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714381_2.fastq
+SRR7287207	/home/zhangwen/project/2024Insect/RawData/SRR7287207_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287207_2.fastq
+SRR7287199	/home/zhangwen/project/2024Insect/RawData/SRR7287199_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287199_2.fastq
+SRR17714389	/home/zhangwen/project/2024Insect/RawData/SRR17714389_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714389_2.fastq
+SRR10810025	/home/zhangwen/project/2024Insect/RawData/SRR10810025_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810025_2.fastq
+SRR17714411	/home/zhangwen/project/2024Insect/RawData/SRR17714411.fastq	
+SRR10810020	/home/zhangwen/project/2024Insect/RawData/SRR10810020_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810020_2.fastq
+SRR17714367	/home/zhangwen/project/2024Insect/RawData/SRR17714367_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714367_2.fastq
+SRR12181021	/home/zhangwen/project/2024Insect/RawData/SRR12181021_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181021_2.fastq
+SRR13837136	/home/zhangwen/project/2024Insect/RawData/SRR13837136_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837136_2.fastq
+SRR7287219	/home/zhangwen/project/2024Insect/RawData/SRR7287219_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287219_2.fastq
+SRR13627141	/home/zhangwen/project/2024Insect/RawData/SRR13627141_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627141_2.fastq
+SRR10810017	/home/zhangwen/project/2024Insect/RawData/SRR10810017_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810017_2.fastq
+SRR17714385	/home/zhangwen/project/2024Insect/RawData/SRR17714385_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714385_2.fastq
+SRR13837160	/home/zhangwen/project/2024Insect/RawData/SRR13837160.fastq	
+SRR7287204	/home/zhangwen/project/2024Insect/RawData/SRR7287204_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287204_2.fastq
+SRR24768703	/home/zhangwen/project/2024Insect/RawData/SRR24768703.fastq	
+SRR17714390	/home/zhangwen/project/2024Insect/RawData/SRR17714390_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714390_2.fastq
+SRR17714386	/home/zhangwen/project/2024Insect/RawData/SRR17714386_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714386_2.fastq
+SRR10810023	/home/zhangwen/project/2024Insect/RawData/SRR10810023_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810023_2.fastq
+SRR10810028	/home/zhangwen/project/2024Insect/RawData/SRR10810028_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810028_2.fastq
+SRR7287245	/home/zhangwen/project/2024Insect/RawData/SRR7287245_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287245_2.fastq
+SRR19756517	/home/zhangwen/project/2024Insect/RawData/SRR19756517_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756517_2.fastq
+SRR22385971	/home/zhangwen/project/2024Insect/RawData/SRR22385971_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR22385971_2.fastq
+SRR10810009	/home/zhangwen/project/2024Insect/RawData/SRR10810009_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810009_2.fastq
+SRR17714380	/home/zhangwen/project/2024Insect/RawData/SRR17714380_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714380_2.fastq
+SRR13837177	/home/zhangwen/project/2024Insect/RawData/SRR13837177.fastq	
+SRR13837187	/home/zhangwen/project/2024Insect/RawData/SRR13837187.fastq	
+SRR17714366	/home/zhangwen/project/2024Insect/RawData/SRR17714366_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714366_2.fastq
+SRR12180956	/home/zhangwen/project/2024Insect/RawData/SRR12180956_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180956_2.fastq
+SRR10810014	/home/zhangwen/project/2024Insect/RawData/SRR10810014_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810014_2.fastq
+SRR13837168	/home/zhangwen/project/2024Insect/RawData/SRR13837168.fastq	
+SRR12181023	/home/zhangwen/project/2024Insect/RawData/SRR12181023_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181023_2.fastq
+SRR10810013	/home/zhangwen/project/2024Insect/RawData/SRR10810013_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810013_2.fastq
+SRR12181043	/home/zhangwen/project/2024Insect/RawData/SRR12181043_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181043_2.fastq
+SRR12180964	/home/zhangwen/project/2024Insect/RawData/SRR12180964_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180964_2.fastq
+SRR19756547	/home/zhangwen/project/2024Insect/RawData/SRR19756547_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR19756547_2.fastq
+SRR13837219	/home/zhangwen/project/2024Insect/RawData/SRR13837219.fastq	
+SRR10810003	/home/zhangwen/project/2024Insect/RawData/SRR10810003_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810003_2.fastq
+SRR12181013	/home/zhangwen/project/2024Insect/RawData/SRR12181013_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181013_2.fastq
+SRR27422686	/home/zhangwen/project/2024Insect/RawData/SRR27422686_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR27422686_2.fastq
+SRR13837128	/home/zhangwen/project/2024Insect/RawData/SRR13837128_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837128_2.fastq
+SRR13837155	/home/zhangwen/project/2024Insect/RawData/SRR13837155.fastq	
+SRR17714406	/home/zhangwen/project/2024Insect/RawData/SRR17714406.fastq	
+SRR7287222	/home/zhangwen/project/2024Insect/RawData/SRR7287222_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287222_2.fastq
+SRR7287202	/home/zhangwen/project/2024Insect/RawData/SRR7287202_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287202_2.fastq
+SRR12181048	/home/zhangwen/project/2024Insect/RawData/SRR12181048_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181048_2.fastq
+SRR10810004	/home/zhangwen/project/2024Insect/RawData/SRR10810004_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810004_2.fastq
+SRR13627148	/home/zhangwen/project/2024Insect/RawData/SRR13627148_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13627148_2.fastq
+SRR12181029	/home/zhangwen/project/2024Insect/RawData/SRR12181029_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181029_2.fastq
+SRR10810011	/home/zhangwen/project/2024Insect/RawData/SRR10810011_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810011_2.fastq
+SRR10810032	/home/zhangwen/project/2024Insect/RawData/SRR10810032_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810032_2.fastq
+SRR10810026	/home/zhangwen/project/2024Insect/RawData/SRR10810026_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810026_2.fastq
+SRR17714384	/home/zhangwen/project/2024Insect/RawData/SRR17714384_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714384_2.fastq
+SRR12180973	/home/zhangwen/project/2024Insect/RawData/SRR12180973_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180973_2.fastq
+SRR10810007	/home/zhangwen/project/2024Insect/RawData/SRR10810007_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810007_2.fastq
+SRR12181005	/home/zhangwen/project/2024Insect/RawData/SRR12181005_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181005_2.fastq
+SRR12181057	/home/zhangwen/project/2024Insect/RawData/SRR12181057_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181057_2.fastq
+SRR13837158	/home/zhangwen/project/2024Insect/RawData/SRR13837158.fastq	
+SRR10810006	/home/zhangwen/project/2024Insect/RawData/SRR10810006_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810006_2.fastq
+SRR17714394	/home/zhangwen/project/2024Insect/RawData/SRR17714394.fastq	
+SRR10810037	/home/zhangwen/project/2024Insect/RawData/SRR10810037_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810037_2.fastq
+SRR17714382	/home/zhangwen/project/2024Insect/RawData/SRR17714382_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714382_2.fastq
+SRR17714370	/home/zhangwen/project/2024Insect/RawData/SRR17714370_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714370_2.fastq
+SRR17714372	/home/zhangwen/project/2024Insect/RawData/SRR17714372_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714372_2.fastq
+SRR2071757	/home/zhangwen/project/2024Insect/RawData/SRR2071757_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR2071757_2.fastq
+SRR13837207	/home/zhangwen/project/2024Insect/RawData/SRR13837207_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837207_2.fastq
+SRR12181002	/home/zhangwen/project/2024Insect/RawData/SRR12181002_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181002_2.fastq
+SRR7287246	/home/zhangwen/project/2024Insect/RawData/SRR7287246_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287246_2.fastq
+SRR12180996	/home/zhangwen/project/2024Insect/RawData/SRR12180996_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180996_2.fastq
+SRR12181036	/home/zhangwen/project/2024Insect/RawData/SRR12181036_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181036_2.fastq
+SRR13837182	/home/zhangwen/project/2024Insect/RawData/SRR13837182.fastq	
+SRR12181010	/home/zhangwen/project/2024Insect/RawData/SRR12181010_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181010_2.fastq
+SRR13837162	/home/zhangwen/project/2024Insect/RawData/SRR13837162.fastq	
+SRR12181058	/home/zhangwen/project/2024Insect/RawData/SRR12181058_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181058_2.fastq
+SRR17714423	/home/zhangwen/project/2024Insect/RawData/SRR17714423.fastq	
+SRR13837178	/home/zhangwen/project/2024Insect/RawData/SRR13837178.fastq	
+SRR17714399	/home/zhangwen/project/2024Insect/RawData/SRR17714399_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714399_2.fastq
+SRR17714409	/home/zhangwen/project/2024Insect/RawData/SRR17714409.fastq	
+SRR10810039	/home/zhangwen/project/2024Insect/RawData/SRR10810039_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810039_2.fastq
+SRR12181000	/home/zhangwen/project/2024Insect/RawData/SRR12181000_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181000_2.fastq
+SRR27422684	/home/zhangwen/project/2024Insect/RawData/SRR27422684_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR27422684_2.fastq
+SRR27422687	/home/zhangwen/project/2024Insect/RawData/SRR27422687_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR27422687_2.fastq
+SRR17714397	/home/zhangwen/project/2024Insect/RawData/SRR17714397.fastq	
+SRR10810041	/home/zhangwen/project/2024Insect/RawData/SRR10810041_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810041_2.fastq
+SRR7287243	/home/zhangwen/project/2024Insect/RawData/SRR7287243_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287243_2.fastq
+SRR17714369	/home/zhangwen/project/2024Insect/RawData/SRR17714369_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714369_2.fastq
+SRR12180975	/home/zhangwen/project/2024Insect/RawData/SRR12180975_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180975_2.fastq
+SRR17714391	/home/zhangwen/project/2024Insect/RawData/SRR17714391.fastq	
+SRR17714378	/home/zhangwen/project/2024Insect/RawData/SRR17714378_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714378_2.fastq
+SRR17714410	/home/zhangwen/project/2024Insect/RawData/SRR17714410.fastq	
+SRR17714379	/home/zhangwen/project/2024Insect/RawData/SRR17714379_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714379_2.fastq
+SRR10810036	/home/zhangwen/project/2024Insect/RawData/SRR10810036_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810036_2.fastq
+SRR12180994	/home/zhangwen/project/2024Insect/RawData/SRR12180994_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180994_2.fastq
+SRR7287244	/home/zhangwen/project/2024Insect/RawData/SRR7287244_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7287244_2.fastq
+SRR17714371	/home/zhangwen/project/2024Insect/RawData/SRR17714371_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714371_2.fastq
+SRR12180951	/home/zhangwen/project/2024Insect/RawData/SRR12180951_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180951_2.fastq
+SRR10810040	/home/zhangwen/project/2024Insect/RawData/SRR10810040_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810040_2.fastq
+SRR13837154	/home/zhangwen/project/2024Insect/RawData/SRR13837154.fastq	
+SRR12180985	/home/zhangwen/project/2024Insect/RawData/SRR12180985_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180985_2.fastq
+SRR17714413	/home/zhangwen/project/2024Insect/RawData/SRR17714413.fastq	
+SRR17714383	/home/zhangwen/project/2024Insect/RawData/SRR17714383_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714383_2.fastq
+SRR24768702	/home/zhangwen/project/2024Insect/RawData/SRR24768702.fastq	
+SRR12181038	/home/zhangwen/project/2024Insect/RawData/SRR12181038_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181038_2.fastq
+SRR10810038	/home/zhangwen/project/2024Insect/RawData/SRR10810038_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810038_2.fastq
+SRR17714403	/home/zhangwen/project/2024Insect/RawData/SRR17714403.fastq	
+SRR12181034	/home/zhangwen/project/2024Insect/RawData/SRR12181034_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181034_2.fastq
+SRR17714404	/home/zhangwen/project/2024Insect/RawData/SRR17714404.fastq	
+SRR12180983	/home/zhangwen/project/2024Insect/RawData/SRR12180983_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180983_2.fastq
+SRR24768701	/home/zhangwen/project/2024Insect/RawData/SRR24768701.fastq	
+SRR13837220	/home/zhangwen/project/2024Insect/RawData/SRR13837220.fastq	
+SRR12180986	/home/zhangwen/project/2024Insect/RawData/SRR12180986_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180986_2.fastq
+SRR17714368	/home/zhangwen/project/2024Insect/RawData/SRR17714368_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714368_2.fastq
+SRR10810002	/home/zhangwen/project/2024Insect/RawData/SRR10810002_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810002_2.fastq
+SRR12180974	/home/zhangwen/project/2024Insect/RawData/SRR12180974_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180974_2.fastq
+SRR12181027	/home/zhangwen/project/2024Insect/RawData/SRR12181027_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181027_2.fastq
+SRR12181020	/home/zhangwen/project/2024Insect/RawData/SRR12181020_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181020_2.fastq
+SRR12180966	/home/zhangwen/project/2024Insect/RawData/SRR12180966_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180966_2.fastq
+SRR12180998	/home/zhangwen/project/2024Insect/RawData/SRR12180998_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180998_2.fastq
+SRR12181030	/home/zhangwen/project/2024Insect/RawData/SRR12181030_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181030_2.fastq
+SRR12181047	/home/zhangwen/project/2024Insect/RawData/SRR12181047_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181047_2.fastq
+SRR11192620	/home/zhangwen/project/2024Insect/RawData/SRR11192620_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11192620_2.fastq
+SRR12181024	/home/zhangwen/project/2024Insect/RawData/SRR12181024_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181024_2.fastq
+SRR12181032	/home/zhangwen/project/2024Insect/RawData/SRR12181032_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181032_2.fastq
+SRR13837142	/home/zhangwen/project/2024Insect/RawData/SRR13837142_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837142_2.fastq
+SRR12181019	/home/zhangwen/project/2024Insect/RawData/SRR12181019_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181019_2.fastq
+SRR7466794	/home/zhangwen/project/2024Insect/RawData/SRR7466794_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7466794_2.fastq
+SRR12180978	/home/zhangwen/project/2024Insect/RawData/SRR12180978_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180978_2.fastq
+SRR11267077	/home/zhangwen/project/2024Insect/RawData/SRR11267077_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267077_2.fastq
+SRR17714401	/home/zhangwen/project/2024Insect/RawData/SRR17714401.fastq	
+SRR11267081	/home/zhangwen/project/2024Insect/RawData/SRR11267081_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267081_2.fastq
+SRR17714428	/home/zhangwen/project/2024Insect/RawData/SRR17714428.fastq	
+SRR12181046	/home/zhangwen/project/2024Insect/RawData/SRR12181046_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181046_2.fastq
+SRR13837161	/home/zhangwen/project/2024Insect/RawData/SRR13837161.fastq	
+SRR12180995	/home/zhangwen/project/2024Insect/RawData/SRR12180995_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180995_2.fastq
+SRR12181037	/home/zhangwen/project/2024Insect/RawData/SRR12181037_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181037_2.fastq
+SRR12180976	/home/zhangwen/project/2024Insect/RawData/SRR12180976_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180976_2.fastq
+SRR11267042	/home/zhangwen/project/2024Insect/RawData/SRR11267042_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267042_2.fastq
+SRR13837184	/home/zhangwen/project/2024Insect/RawData/SRR13837184.fastq	
+SRR26425453	/home/zhangwen/project/2024Insect/RawData/SRR26425453_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26425453_2.fastq
+SRR12180980	/home/zhangwen/project/2024Insect/RawData/SRR12180980_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180980_2.fastq
+SRR10810005	/home/zhangwen/project/2024Insect/RawData/SRR10810005_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810005_2.fastq
+SRR12181001	/home/zhangwen/project/2024Insect/RawData/SRR12181001_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181001_2.fastq
+SRR17714395	/home/zhangwen/project/2024Insect/RawData/SRR17714395.fastq	
+SRR13837156	/home/zhangwen/project/2024Insect/RawData/SRR13837156.fastq	
+SRR13837181	/home/zhangwen/project/2024Insect/RawData/SRR13837181.fastq	
+SRR12181028	/home/zhangwen/project/2024Insect/RawData/SRR12181028_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181028_2.fastq
+SRR17714373	/home/zhangwen/project/2024Insect/RawData/SRR17714373_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR17714373_2.fastq
+SRR11267044	/home/zhangwen/project/2024Insect/RawData/SRR11267044_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267044_2.fastq
+SRR12181014	/home/zhangwen/project/2024Insect/RawData/SRR12181014_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181014_2.fastq
+SRR10810018	/home/zhangwen/project/2024Insect/RawData/SRR10810018_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810018_2.fastq
+SRR12180942	/home/zhangwen/project/2024Insect/RawData/SRR12180942_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180942_2.fastq
+SRR12180991	/home/zhangwen/project/2024Insect/RawData/SRR12180991_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180991_2.fastq
+SRR12181009	/home/zhangwen/project/2024Insect/RawData/SRR12181009_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181009_2.fastq
+SRR12181004	/home/zhangwen/project/2024Insect/RawData/SRR12181004_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181004_2.fastq
+SRR26434554	/home/zhangwen/project/2024Insect/RawData/SRR26434554_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26434554_2.fastq
+SRR7466795	/home/zhangwen/project/2024Insect/RawData/SRR7466795_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR7466795_2.fastq
+SRR10810029	/home/zhangwen/project/2024Insect/RawData/SRR10810029_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10810029_2.fastq
+SRR13837159	/home/zhangwen/project/2024Insect/RawData/SRR13837159.fastq	
+SRR11267043	/home/zhangwen/project/2024Insect/RawData/SRR11267043_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267043_2.fastq
+SRR17714433	/home/zhangwen/project/2024Insect/RawData/SRR17714433.fastq	
+SRR13837208	/home/zhangwen/project/2024Insect/RawData/SRR13837208.fastq	
+SRR12180952	/home/zhangwen/project/2024Insect/RawData/SRR12180952_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180952_2.fastq
+SRR26425389	/home/zhangwen/project/2024Insect/RawData/SRR26425389_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26425389_2.fastq
+SRR12180967	/home/zhangwen/project/2024Insect/RawData/SRR12180967_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180967_2.fastq
+SRR12180992	/home/zhangwen/project/2024Insect/RawData/SRR12180992_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180992_2.fastq
+SRR26425388	/home/zhangwen/project/2024Insect/RawData/SRR26425388_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26425388_2.fastq
+SRR11267054	/home/zhangwen/project/2024Insect/RawData/SRR11267054_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267054_2.fastq
+SRR12180999	/home/zhangwen/project/2024Insect/RawData/SRR12180999_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180999_2.fastq
+SRR12180977	/home/zhangwen/project/2024Insect/RawData/SRR12180977_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180977_2.fastq
+SRR12180988	/home/zhangwen/project/2024Insect/RawData/SRR12180988_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180988_2.fastq
+SRR26425452	/home/zhangwen/project/2024Insect/RawData/SRR26425452_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26425452_2.fastq
+SRR12181042	/home/zhangwen/project/2024Insect/RawData/SRR12181042_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181042_2.fastq
+SRR17714407	/home/zhangwen/project/2024Insect/RawData/SRR17714407.fastq	
+SRR17714408	/home/zhangwen/project/2024Insect/RawData/SRR17714408.fastq	
+SRR12180943	/home/zhangwen/project/2024Insect/RawData/SRR12180943_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180943_2.fastq
+SRR12180981	/home/zhangwen/project/2024Insect/RawData/SRR12180981_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180981_2.fastq
+SRR12181022	/home/zhangwen/project/2024Insect/RawData/SRR12181022_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181022_2.fastq
+SRR12181040	/home/zhangwen/project/2024Insect/RawData/SRR12181040_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181040_2.fastq
+SRR12180940	/home/zhangwen/project/2024Insect/RawData/SRR12180940_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180940_2.fastq
+SRR12180989	/home/zhangwen/project/2024Insect/RawData/SRR12180989_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180989_2.fastq
+SRR12180968	/home/zhangwen/project/2024Insect/RawData/SRR12180968_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180968_2.fastq
+SRR11267069	/home/zhangwen/project/2024Insect/RawData/SRR11267069_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267069_2.fastq
+SRR11267073	/home/zhangwen/project/2024Insect/RawData/SRR11267073_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267073_2.fastq
+SRR12181041	/home/zhangwen/project/2024Insect/RawData/SRR12181041_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181041_2.fastq
+SRR12180962	/home/zhangwen/project/2024Insect/RawData/SRR12180962_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180962_2.fastq
+SRR12181051	/home/zhangwen/project/2024Insect/RawData/SRR12181051_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181051_2.fastq
+SRR26434553	/home/zhangwen/project/2024Insect/RawData/SRR26434553_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26434553_2.fastq
+SRR12180979	/home/zhangwen/project/2024Insect/RawData/SRR12180979_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180979_2.fastq
+SRR12180997	/home/zhangwen/project/2024Insect/RawData/SRR12180997_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180997_2.fastq
+SRR17714427	/home/zhangwen/project/2024Insect/RawData/SRR17714427.fastq	
+SRR13837180	/home/zhangwen/project/2024Insect/RawData/SRR13837180.fastq	
+SRR17714425	/home/zhangwen/project/2024Insect/RawData/SRR17714425.fastq	
+SRR12181055	/home/zhangwen/project/2024Insect/RawData/SRR12181055_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181055_2.fastq
+SRR11267065	/home/zhangwen/project/2024Insect/RawData/SRR11267065_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267065_2.fastq
+SRR4051759	/home/zhangwen/project/2024Insect/RawData/SRR4051759_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR4051759_2.fastq
+SRR12181035	/home/zhangwen/project/2024Insect/RawData/SRR12181035_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181035_2.fastq
+SRR11267064	/home/zhangwen/project/2024Insect/RawData/SRR11267064_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267064_2.fastq
+SRR12180972	/home/zhangwen/project/2024Insect/RawData/SRR12180972_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180972_2.fastq
+SRR11267047	/home/zhangwen/project/2024Insect/RawData/SRR11267047_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267047_2.fastq
+SRR17714417	/home/zhangwen/project/2024Insect/RawData/SRR17714417.fastq	
+SRR12180957	/home/zhangwen/project/2024Insect/RawData/SRR12180957_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180957_2.fastq
+SRR11192622	/home/zhangwen/project/2024Insect/RawData/SRR11192622_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11192622_2.fastq
+SRR12181033	/home/zhangwen/project/2024Insect/RawData/SRR12181033_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181033_2.fastq
+SRR12181015	/home/zhangwen/project/2024Insect/RawData/SRR12181015_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181015_2.fastq
+SRR11267078	/home/zhangwen/project/2024Insect/RawData/SRR11267078_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267078_2.fastq
+SRR13837183	/home/zhangwen/project/2024Insect/RawData/SRR13837183.fastq	
+SRR26434398	/home/zhangwen/project/2024Insect/RawData/SRR26434398_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26434398_2.fastq
+SRR11192618	/home/zhangwen/project/2024Insect/RawData/SRR11192618_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11192618_2.fastq
+SRR12181039	/home/zhangwen/project/2024Insect/RawData/SRR12181039_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181039_2.fastq
+SRR12181045	/home/zhangwen/project/2024Insect/RawData/SRR12181045_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181045_2.fastq
+SRR11267057	/home/zhangwen/project/2024Insect/RawData/SRR11267057_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267057_2.fastq
+SRR17714418	/home/zhangwen/project/2024Insect/RawData/SRR17714418.fastq	
+SRR12180970	/home/zhangwen/project/2024Insect/RawData/SRR12180970_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180970_2.fastq
+SRR11267072	/home/zhangwen/project/2024Insect/RawData/SRR11267072_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267072_2.fastq
+SRR12181050	/home/zhangwen/project/2024Insect/RawData/SRR12181050_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181050_2.fastq
+SRR10914156	/home/zhangwen/project/2024Insect/RawData/SRR10914156_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10914156_2.fastq
+SRR12181007	/home/zhangwen/project/2024Insect/RawData/SRR12181007_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181007_2.fastq
+SRR12181031	/home/zhangwen/project/2024Insect/RawData/SRR12181031_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181031_2.fastq
+SRR10914157	/home/zhangwen/project/2024Insect/RawData/SRR10914157_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10914157_2.fastq
+SRR12181017	/home/zhangwen/project/2024Insect/RawData/SRR12181017_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181017_2.fastq
+SRR11267079	/home/zhangwen/project/2024Insect/RawData/SRR11267079_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267079_2.fastq
+SRR12180984	/home/zhangwen/project/2024Insect/RawData/SRR12180984_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180984_2.fastq
+SRR11267063	/home/zhangwen/project/2024Insect/RawData/SRR11267063_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267063_2.fastq
+SRR12180944	/home/zhangwen/project/2024Insect/RawData/SRR12180944_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180944_2.fastq
+SRR11267058	/home/zhangwen/project/2024Insect/RawData/SRR11267058_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267058_2.fastq
+SRR11267068	/home/zhangwen/project/2024Insect/RawData/SRR11267068_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267068_2.fastq
+SRR12180971	/home/zhangwen/project/2024Insect/RawData/SRR12180971_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180971_2.fastq
+SRR26434399	/home/zhangwen/project/2024Insect/RawData/SRR26434399_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26434399_2.fastq
+SRR12181052	/home/zhangwen/project/2024Insect/RawData/SRR12181052_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181052_2.fastq
+SRR17714416	/home/zhangwen/project/2024Insect/RawData/SRR17714416.fastq	
+SRR26434396	/home/zhangwen/project/2024Insect/RawData/SRR26434396_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26434396_2.fastq
+SRR11267080	/home/zhangwen/project/2024Insect/RawData/SRR11267080_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267080_2.fastq
+SRR12180993	/home/zhangwen/project/2024Insect/RawData/SRR12180993_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180993_2.fastq
+SRR11267066	/home/zhangwen/project/2024Insect/RawData/SRR11267066_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267066_2.fastq
+SRR12180937	/home/zhangwen/project/2024Insect/RawData/SRR12180937_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180937_2.fastq
+SRR26434397	/home/zhangwen/project/2024Insect/RawData/SRR26434397_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR26434397_2.fastq
+SRR12180965	/home/zhangwen/project/2024Insect/RawData/SRR12180965_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180965_2.fastq
+SRR11267076	/home/zhangwen/project/2024Insect/RawData/SRR11267076_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267076_2.fastq
+SRR11267052	/home/zhangwen/project/2024Insect/RawData/SRR11267052_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267052_2.fastq
+SRR12180982	/home/zhangwen/project/2024Insect/RawData/SRR12180982_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180982_2.fastq
+SRR12181059	/home/zhangwen/project/2024Insect/RawData/SRR12181059_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181059_2.fastq
+SRR10914160	/home/zhangwen/project/2024Insect/RawData/SRR10914160_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10914160_2.fastq
+SRR12180935	/home/zhangwen/project/2024Insect/RawData/SRR12180935_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180935_2.fastq
+SRR11267071	/home/zhangwen/project/2024Insect/RawData/SRR11267071_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267071_2.fastq
+SRR11267046	/home/zhangwen/project/2024Insect/RawData/SRR11267046_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267046_2.fastq
+SRR11267051	/home/zhangwen/project/2024Insect/RawData/SRR11267051_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267051_2.fastq
+SRR10914162	/home/zhangwen/project/2024Insect/RawData/SRR10914162_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10914162_2.fastq
+SRR12180941	/home/zhangwen/project/2024Insect/RawData/SRR12180941_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180941_2.fastq
+SRR11267045	/home/zhangwen/project/2024Insect/RawData/SRR11267045_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267045_2.fastq
+SRR17714412	/home/zhangwen/project/2024Insect/RawData/SRR17714412.fastq	
+SRR11192621	/home/zhangwen/project/2024Insect/RawData/SRR11192621_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11192621_2.fastq
+SRR12180963	/home/zhangwen/project/2024Insect/RawData/SRR12180963_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180963_2.fastq
+SRR12181003	/home/zhangwen/project/2024Insect/RawData/SRR12181003_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181003_2.fastq
+SRR12180947	/home/zhangwen/project/2024Insect/RawData/SRR12180947_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180947_2.fastq
+SRR12181012	/home/zhangwen/project/2024Insect/RawData/SRR12181012_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181012_2.fastq
+SRR12180939	/home/zhangwen/project/2024Insect/RawData/SRR12180939_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180939_2.fastq
+SRR11267059	/home/zhangwen/project/2024Insect/RawData/SRR11267059_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267059_2.fastq
+SRR11192619	/home/zhangwen/project/2024Insect/RawData/SRR11192619_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11192619_2.fastq
+SRR12180936	/home/zhangwen/project/2024Insect/RawData/SRR12180936_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180936_2.fastq
+SRR12180990	/home/zhangwen/project/2024Insect/RawData/SRR12180990_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180990_2.fastq
+SRR12181018	/home/zhangwen/project/2024Insect/RawData/SRR12181018_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181018_2.fastq
+SRR12180960	/home/zhangwen/project/2024Insect/RawData/SRR12180960_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180960_2.fastq
+SRR11267055	/home/zhangwen/project/2024Insect/RawData/SRR11267055_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267055_2.fastq
+SRR12180959	/home/zhangwen/project/2024Insect/RawData/SRR12180959_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180959_2.fastq
+SRR12180950	/home/zhangwen/project/2024Insect/RawData/SRR12180950_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180950_2.fastq
+SRR12181054	/home/zhangwen/project/2024Insect/RawData/SRR12181054_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181054_2.fastq
+SRR10914165	/home/zhangwen/project/2024Insect/RawData/SRR10914165_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10914165_2.fastq
+SRR12180953	/home/zhangwen/project/2024Insect/RawData/SRR12180953_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180953_2.fastq
+SRR12180955	/home/zhangwen/project/2024Insect/RawData/SRR12180955_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180955_2.fastq
+SRR17714387	/home/zhangwen/project/2024Insect/RawData/SRR17714387.fastq	
+SRR11267048	/home/zhangwen/project/2024Insect/RawData/SRR11267048_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267048_2.fastq
+SRR12181008	/home/zhangwen/project/2024Insect/RawData/SRR12181008_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181008_2.fastq
+SRR11267056	/home/zhangwen/project/2024Insect/RawData/SRR11267056_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267056_2.fastq
+SRR10914154	/home/zhangwen/project/2024Insect/RawData/SRR10914154_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10914154_2.fastq
+SRR12180948	/home/zhangwen/project/2024Insect/RawData/SRR12180948_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180948_2.fastq
+SRR13837129	/home/zhangwen/project/2024Insect/RawData/SRR13837129_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837129_2.fastq
+SRR11267053	/home/zhangwen/project/2024Insect/RawData/SRR11267053_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267053_2.fastq
+SRR12180949	/home/zhangwen/project/2024Insect/RawData/SRR12180949_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180949_2.fastq
+SRR11267074	/home/zhangwen/project/2024Insect/RawData/SRR11267074_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267074_2.fastq
+SRR12181053	/home/zhangwen/project/2024Insect/RawData/SRR12181053_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181053_2.fastq
+SRR12181026	/home/zhangwen/project/2024Insect/RawData/SRR12181026_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181026_2.fastq
+SRR12181049	/home/zhangwen/project/2024Insect/RawData/SRR12181049_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181049_2.fastq
+SRR18680878	/home/zhangwen/project/2024Insect/RawData/SRR18680878_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR18680878_2.fastq
+SRR10914164	/home/zhangwen/project/2024Insect/RawData/SRR10914164_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10914164_2.fastq
+SRR12180987	/home/zhangwen/project/2024Insect/RawData/SRR12180987_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180987_2.fastq
+SRR11267075	/home/zhangwen/project/2024Insect/RawData/SRR11267075_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267075_2.fastq
+SRR18680879	/home/zhangwen/project/2024Insect/RawData/SRR18680879_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR18680879_2.fastq
+SRR12181056	/home/zhangwen/project/2024Insect/RawData/SRR12181056_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181056_2.fastq
+SRR12180946	/home/zhangwen/project/2024Insect/RawData/SRR12180946_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180946_2.fastq
+SRR11267060	/home/zhangwen/project/2024Insect/RawData/SRR11267060_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267060_2.fastq
+SRR11267061	/home/zhangwen/project/2024Insect/RawData/SRR11267061_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267061_2.fastq
+SRR10914159	/home/zhangwen/project/2024Insect/RawData/SRR10914159_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10914159_2.fastq
+SRR10914155	/home/zhangwen/project/2024Insect/RawData/SRR10914155_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10914155_2.fastq
+SRR11267062	/home/zhangwen/project/2024Insect/RawData/SRR11267062_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267062_2.fastq
+SRR10914161	/home/zhangwen/project/2024Insect/RawData/SRR10914161_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10914161_2.fastq
+SRR10914158	/home/zhangwen/project/2024Insect/RawData/SRR10914158_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10914158_2.fastq
+SRR11267049	/home/zhangwen/project/2024Insect/RawData/SRR11267049_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267049_2.fastq
+SRR11267067	/home/zhangwen/project/2024Insect/RawData/SRR11267067_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267067_2.fastq
+SRR18680880	/home/zhangwen/project/2024Insect/RawData/SRR18680880_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR18680880_2.fastq
+SRR12180938	/home/zhangwen/project/2024Insect/RawData/SRR12180938_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180938_2.fastq
+SRR11267070	/home/zhangwen/project/2024Insect/RawData/SRR11267070_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267070_2.fastq
+SRR12180954	/home/zhangwen/project/2024Insect/RawData/SRR12180954_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180954_2.fastq
+SRR11267050	/home/zhangwen/project/2024Insect/RawData/SRR11267050_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11267050_2.fastq
+SRR12180958	/home/zhangwen/project/2024Insect/RawData/SRR12180958_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180958_2.fastq
+SRR12181025	/home/zhangwen/project/2024Insect/RawData/SRR12181025_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181025_2.fastq
+SRR10914163	/home/zhangwen/project/2024Insect/RawData/SRR10914163_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR10914163_2.fastq
+SRR18680881	/home/zhangwen/project/2024Insect/RawData/SRR18680881_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR18680881_2.fastq
+SRR13837130	/home/zhangwen/project/2024Insect/RawData/SRR13837130_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837130_2.fastq
+SRR12181006	/home/zhangwen/project/2024Insect/RawData/SRR12181006_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12181006_2.fastq
+SRR12180961	/home/zhangwen/project/2024Insect/RawData/SRR12180961_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR12180961_2.fastq
+SRR18680882	/home/zhangwen/project/2024Insect/RawData/SRR18680882_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR18680882_2.fastq
+SRR13837125	/home/zhangwen/project/2024Insect/RawData/SRR13837125_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837125_2.fastq
+SRR18725215	/home/zhangwen/project/2024Insect/RawData/SRR18725215_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR18725215_2.fastq
+SRR18680883	/home/zhangwen/project/2024Insect/RawData/SRR18680883_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR18680883_2.fastq
+SRR13837131	/home/zhangwen/project/2024Insect/RawData/SRR13837131_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837131_2.fastq
+SRR2071758	/home/zhangwen/project/2024Insect/RawData/SRR2071758_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR2071758_2.fastq
+SRR13837137	/home/zhangwen/project/2024Insect/RawData/SRR13837137_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837137_2.fastq
+SRR13837214	/home/zhangwen/project/2024Insect/RawData/SRR13837214_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837214_2.fastq
+SRR13837126	/home/zhangwen/project/2024Insect/RawData/SRR13837126_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837126_2.fastq
+SRR17714396	/home/zhangwen/project/2024Insect/RawData/SRR17714396.fastq	
+SRR13837132	/home/zhangwen/project/2024Insect/RawData/SRR13837132_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837132_2.fastq
+SRR13837215	/home/zhangwen/project/2024Insect/RawData/SRR13837215_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837215_2.fastq
+SRR13837185	/home/zhangwen/project/2024Insect/RawData/SRR13837185_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837185_2.fastq
+SRR13837133	/home/zhangwen/project/2024Insect/RawData/SRR13837133_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837133_2.fastq
+SRR13837138	/home/zhangwen/project/2024Insect/RawData/SRR13837138_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR13837138_2.fastq
+SRR11869874	/home/zhangwen/project/2024Insect/RawData/SRR11869874_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR11869874_2.fastq
+SRR4051758	/home/zhangwen/project/2024Insect/RawData/SRR4051758_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR4051758_2.fastq
+SRR25145046	/home/zhangwen/project/2024Insect/RawData/SRR25145046_1.fastq	/home/zhangwen/project/2024Insect/RawData/SRR25145046_2.fastq
+SRR17714426	/home/zhangwen/project/2024Insect/RawData/SRR17714426.fastq	
