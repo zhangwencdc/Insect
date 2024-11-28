@@ -1,0 +1,34 @@
+下载数据	docker run --privileged=true -it -v /home/zhangwen/project/2024Insect/:/test kingfisher:v1						
+	conda activate kingfisher						
+	perl kingfisher.pl SraAccList_info_filter-v2.csv 						仅下载大于1Gb的数据
+							
+数据分析	docker run -it  --privileged=true -v /home/zhangwen/:/test wgs:v2						
+	cd /test/project/2024Insect/Analysis/						
+	perl Insect-sh.pl Insect_Seq-v2.list >Insect.sh						
+	nohup sh Insect.sh &			已完成			
+							
+	perl Insect-spades.pl Insect_Seq.list				拼接组装找Bins，运行中  perl Insect-spades.pl tmp.list		
+							
+	perl Insect-Metaphlan.pl Insect_Seq.list					Metaphlan分析，已完成	
+							
+							
+昆虫宿主统计	perl Host_stat.pl WGS_Report/ 80 Host_stat.csv						
+							
+							
+毒力因子统计	perl Bowtie_stat_vff.pl 03.Target/VFF_ARGs/ 90 VFF.stat >VFF.stat.sum						
+							
+							
+耐药基因统计	perl Bowtie_stat_ARG.pl 03.Target/VFF_ARGs/ 90 ARG.stat >ARG.stat.sum						
+							
+							
+病毒	perl Insect_DRMVirus_v2_sh.pl Insect_Seq.list DRMVirus_v2.cat.fasta >Insect_DRMVirus_v2.sh						
+	sh Insect_DRMVirus_v2.sh						
+	perl Bowtie_stat_DRMvirus.pl						
+	perl fastv_stat.pl						
+细菌Marker gene	perl Insect_marker_sh.pl Insect_Seq.list /home/zhangwen/Data/2023Genome_Database/Marker/PathogenMarker-v7.fasta >Insect_marker.sh						
+	sh Insect_marker.sh						
+	 perl Bowtie_stat_Pathogenmarker.pl PathogenMarker 50 PathogenMarker.stat >PathogenMarker.stat.v2						
+							
+Kraken结果合并	 python /home/zhangwen/bin/KrakenTools/combine_kreports.py -r 02.Structure/Kraken2/*.report -o Kraken.cat						
+	python /home/zhangwen/bin/KBKen/extract_report.py -i Kraken.cat -o filtered_kreports.txt						
+Bracken结果合并	python /home/zhangwen/bin/KBKen/combine_bracken_outputs.py --files 02.Structure/Kraken2/*report.bracken -o Bracken.cat						
